@@ -1,0 +1,45 @@
+body{
+  background-color: #66CCFF;
+  padding: 50px;
+  text-align: center;
+}
+
+
+.users-form input {
+    border: none;
+    border-radius: 5px;
+    }
+.submit-form{
+ background-color: blue;
+ font-size: 15px;
+ font-weight: 200;
+ margin-left: 10px;
+ height: 35px;
+}
+.text-form{
+  padding: 5px;
+  height: 30px;
+}
+.users-list{
+  background-color: rgb(143, 219, 194);
+  margin-left: 35%;
+  margin-right: 35%;  
+  list-style-type: none;
+  padding: 15px;
+}
+
+.users-list-item{
+  background-color:#fff;
+  margin: 20px;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.App-text{
+margin-top: 150px;
+}
+
+
+
